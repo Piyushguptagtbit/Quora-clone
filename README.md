@@ -2,10 +2,10 @@
 
 ### A Full-Stack Web Application built with Express.js, EJS, and more.
 
-![Project views](https://komarev.com/ghpvc/?username=justtcallmejayy&label=Project%20views&color=0e75b6&style=flat)
+
 
 - 🌱 Currently learning **Full-stack Development & Security**
-- 📫 Reach me at **jayy.choksi@gmail.com**
+
 
 ---
 
@@ -33,21 +33,7 @@ This project is a **Quora Clone** built with **Node.js** and **Express.js** for 
 
 ---
 
-### 🔗 Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jaychoksi18/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/justtcallmejayy" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://x.com/JayyWebDevX" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" height="40" width="40" style="margin-right: 10px;" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages and Tools:
 
@@ -72,18 +58,4 @@ This project is a **Quora Clone** built with **Node.js** and **Express.js** for 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtcallmejayy&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📝 How to Run This Project
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/justtcallmejayy/quora-clone.git
